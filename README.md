@@ -57,4 +57,4 @@ maven で springを実行します。
 ./mvnw spring-boot:run
 ```
 
-引数の指定方法は　https://www.baeldung.com/spring-boot-command-line-arguments　参照
+引数の指定方法は　https://www.baeldung.com/spring-boot-command-line-arguments 参照
